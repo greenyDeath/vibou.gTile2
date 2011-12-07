@@ -1,5 +1,5 @@
-<schemalist gettext-domain="gnome-shell-extension-gTile">
-  <schema id="org.gnome.shell.extensions.gTile" path="/org/gnome/shell/extensions/gTile/">
+<schemalist gettext-domain="vibou-gTile">
+  <schema id="vibou.gTile" path="/vibou/gTile/">
      <key name="custom-grid-row" type="s">
       <default>'3'</default>
       <_summary>Custom Grid</_summary>
